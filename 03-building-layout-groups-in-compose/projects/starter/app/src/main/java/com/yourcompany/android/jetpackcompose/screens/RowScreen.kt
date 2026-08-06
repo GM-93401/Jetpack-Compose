@@ -32,13 +32,13 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose.screens
+package com.263-MC1000.android.jetpackcompose.screens
 
 import androidx.compose.runtime.Composable
-import com.yourcompany.android.jetpackcompose.R
-import com.yourcompany.android.jetpackcompose.router.BackButtonHandler
-import com.yourcompany.android.jetpackcompose.router.JetFundamentalsRouter
-import com.yourcompany.android.jetpackcompose.router.Screen
+import com.263-MC1000.android.jetpackcompose.R
+import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
+import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
+import com.263-MC1000.android.jetpackcompose.router.Screen
 
 val THREE_ELEMENT_LIST = listOf(R.string.first, R.string.second, R.string.third)
 

@@ -1,4 +1,4 @@
-package com.yourcompany.android.jetnotes
+package com.263-MC1000.android.jetnotes
 
 import org.junit.Test
 

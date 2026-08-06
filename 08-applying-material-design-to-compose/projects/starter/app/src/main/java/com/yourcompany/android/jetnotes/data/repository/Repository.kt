@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.data.repository
+package com.263-MC1000.android.jetnotes.data.repository
 
-import com.yourcompany.android.jetnotes.domain.model.ColorModel
-import com.yourcompany.android.jetnotes.domain.model.NoteModel
+import com.263-MC1000.android.jetnotes.domain.model.ColorModel
+import com.263-MC1000.android.jetnotes.domain.model.NoteModel
 import kotlinx.coroutines.flow.Flow
 
 /**

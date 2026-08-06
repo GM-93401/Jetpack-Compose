@@ -31,13 +31,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.viewmodel
+package com.263-MC1000.android.jetreddit.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.yourcompany.android.jetreddit.data.repository.Repository
-import com.yourcompany.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.data.repository.Repository
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 

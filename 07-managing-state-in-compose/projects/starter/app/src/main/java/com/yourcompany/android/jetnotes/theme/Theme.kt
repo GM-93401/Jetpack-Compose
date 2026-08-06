@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetnotes.theme
+package com.263-MC1000.android.jetnotes.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

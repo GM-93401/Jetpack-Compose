@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 
 import android.annotation.SuppressLint
@@ -53,11 +53,11 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.yourcompany.android.jetreddit.appdrawer.AppDrawer
-import com.yourcompany.android.jetreddit.routing.Screen
-import com.yourcompany.android.jetreddit.screens.*
-import com.yourcompany.android.jetreddit.theme.JetRedditTheme
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.appdrawer.AppDrawer
+import com.263-MC1000.android.jetreddit.routing.Screen
+import com.263-MC1000.android.jetreddit.screens.*
+import com.263-MC1000.android.jetreddit.theme.JetRedditTheme
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

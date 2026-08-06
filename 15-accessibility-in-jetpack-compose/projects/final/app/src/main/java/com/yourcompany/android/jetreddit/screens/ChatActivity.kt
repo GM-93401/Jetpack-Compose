@@ -1,4 +1,4 @@
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import android.os.Bundle
 import android.widget.Toast
@@ -18,8 +18,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.databinding.ActivityChatBinding
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.databinding.ActivityChatBinding
 import java.util.*
 
 class ChatActivity : AppCompatActivity() {

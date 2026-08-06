@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Spacer
@@ -43,11 +43,11 @@ import androidx.compose.runtime.*
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.yourcompany.android.jetreddit.components.ImagePost
-import com.yourcompany.android.jetreddit.components.TextPost
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.domain.model.PostType
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.components.ImagePost
+import com.263-MC1000.android.jetreddit.components.TextPost
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.domain.model.PostType
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
 
 @Composable
 fun HomeScreen(viewModel: MainViewModel) {

@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose
+package com.263-MC1000.android.jetpackcompose
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

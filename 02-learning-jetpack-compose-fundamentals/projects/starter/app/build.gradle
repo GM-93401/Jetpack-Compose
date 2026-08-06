@@ -8,7 +8,7 @@ android {
   buildToolsVersion "30.0.3"
 
   defaultConfig {
-    applicationId 'com.yourcompany.android.jetpackcompose'
+    applicationId 'com.263-MC1000.android.jetpackcompose'
 
     minSdkVersion 21
     targetSdkVersion 33

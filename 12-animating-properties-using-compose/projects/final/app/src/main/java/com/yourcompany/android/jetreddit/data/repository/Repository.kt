@@ -31,9 +31,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.data.repository
+package com.263-MC1000.android.jetreddit.data.repository
 
-import com.yourcompany.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
 import kotlinx.coroutines.flow.Flow
 
 interface Repository {

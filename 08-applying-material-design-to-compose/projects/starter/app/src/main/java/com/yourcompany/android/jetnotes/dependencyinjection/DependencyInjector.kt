@@ -31,15 +31,15 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.dependencyinjection
+package com.263-MC1000.android.jetnotes.dependencyinjection
 
 import android.content.Context
 import androidx.room.Room
-import com.yourcompany.android.jetnotes.data.database.AppDatabase
-import com.yourcompany.android.jetnotes.data.database.dbmapper.DbMapper
-import com.yourcompany.android.jetnotes.data.database.dbmapper.DbMapperImpl
-import com.yourcompany.android.jetnotes.data.repository.Repository
-import com.yourcompany.android.jetnotes.data.repository.RepositoryImpl
+import com.263-MC1000.android.jetnotes.data.database.AppDatabase
+import com.263-MC1000.android.jetnotes.data.database.dbmapper.DbMapper
+import com.263-MC1000.android.jetnotes.data.database.dbmapper.DbMapperImpl
+import com.263-MC1000.android.jetnotes.data.repository.Repository
+import com.263-MC1000.android.jetnotes.data.repository.RepositoryImpl
 
 /**
  * Provides dependencies across the app.

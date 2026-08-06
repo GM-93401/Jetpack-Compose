@@ -31,14 +31,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModelFactory
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModelFactory
 
 class MainActivity : AppCompatActivity() {
 

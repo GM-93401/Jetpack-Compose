@@ -32,10 +32,10 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetnotes
+package com.263-MC1000.android.jetnotes
 
 import android.app.Application
-import com.yourcompany.android.jetnotes.dependencyinjection.DependencyInjector
+import com.263-MC1000.android.jetnotes.dependencyinjection.DependencyInjector
 
 /**
  * Application class responsible for initializing the dependency injector.

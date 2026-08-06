@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.*
@@ -58,9 +58,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.zIndex
 import androidx.constraintlayout.compose.ConstraintLayout
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.components.BackgroundText
-import com.yourcompany.android.jetreddit.models.SubredditModel
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.components.BackgroundText
+import com.263-MC1000.android.jetreddit.models.SubredditModel
 
 val subreddits = listOf(
   SubredditModel(

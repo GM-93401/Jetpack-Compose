@@ -1,12 +1,12 @@
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.compose.ui.test.onNodeWithTag
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.screens.TrendingTopic
-import com.yourcompany.android.jetreddit.screens.TrendingTopicModel
-import com.yourcompany.android.jetreddit.util.Tags
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.screens.TrendingTopic
+import com.263-MC1000.android.jetreddit.screens.TrendingTopicModel
+import com.263-MC1000.android.jetreddit.util.Tags
 import org.junit.Rule
 import org.junit.Test
 

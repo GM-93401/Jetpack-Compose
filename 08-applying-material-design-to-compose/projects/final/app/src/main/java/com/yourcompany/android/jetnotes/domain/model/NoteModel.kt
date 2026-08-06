@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.domain.model
+package com.263-MC1000.android.jetnotes.domain.model
 
 const val NEW_NOTE_ID = -1L
 

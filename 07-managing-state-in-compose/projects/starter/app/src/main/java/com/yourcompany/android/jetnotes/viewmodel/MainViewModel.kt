@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.viewmodel
+package com.263-MC1000.android.jetnotes.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.yourcompany.android.jetnotes.data.repository.Repository
+import com.263-MC1000.android.jetnotes.data.repository.Repository
 
 /**
  * View model used for storing the global app state.

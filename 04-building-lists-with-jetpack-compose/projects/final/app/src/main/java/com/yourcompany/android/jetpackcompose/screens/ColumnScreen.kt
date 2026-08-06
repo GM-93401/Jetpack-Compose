@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose.screens
+package com.263-MC1000.android.jetpackcompose.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -43,9 +43,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.sp
-import com.yourcompany.android.jetpackcompose.router.BackButtonHandler
-import com.yourcompany.android.jetpackcompose.router.JetFundamentalsRouter
-import com.yourcompany.android.jetpackcompose.router.Screen
+import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
+import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
+import com.263-MC1000.android.jetpackcompose.router.Screen
 
 @Composable
 fun ColumnScreen() {

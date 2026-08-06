@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.compose.animation.Crossfade
 import androidx.compose.foundation.Image
@@ -59,13 +59,13 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.appdrawer.ProfileInfo
-import com.yourcompany.android.jetreddit.components.PostAction
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.routing.MyProfileRouter
-import com.yourcompany.android.jetreddit.routing.MyProfileScreenType
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.appdrawer.ProfileInfo
+import com.263-MC1000.android.jetreddit.components.PostAction
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.routing.MyProfileRouter
+import com.263-MC1000.android.jetreddit.routing.MyProfileScreenType
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
 
 private val tabNames = listOf(R.string.posts, R.string.about)
 

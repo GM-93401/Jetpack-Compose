@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -47,10 +47,10 @@ import androidx.compose.ui.res.imageResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.routing.Screen
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.routing.Screen
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
 
 @Composable
 fun AddScreen(

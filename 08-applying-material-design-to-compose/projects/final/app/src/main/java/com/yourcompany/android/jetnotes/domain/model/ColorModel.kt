@@ -31,9 +31,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.domain.model
+package com.263-MC1000.android.jetnotes.domain.model
 
-import com.yourcompany.android.jetnotes.data.database.model.ColorDbModel
+import com.263-MC1000.android.jetnotes.data.database.model.ColorDbModel
 
 /**
  * Model class for one Color

@@ -1,10 +1,10 @@
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.databinding.ActivityChatBinding
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.databinding.ActivityChatBinding
 
 class ChatActivity : AppCompatActivity() {
 

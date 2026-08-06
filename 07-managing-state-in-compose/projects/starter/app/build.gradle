@@ -9,7 +9,7 @@ android {
   buildToolsVersion "30.0.3"
 
   defaultConfig {
-    applicationId "com.yourcompany.android.jetnotes"
+    applicationId "com.263-MC1000.android.jetnotes"
 
     minSdkVersion 21
     targetSdkVersion 33

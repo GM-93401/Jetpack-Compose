@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.components
+package com.263-MC1000.android.jetreddit.components
 
 import androidx.compose.animation.animateColor
 import androidx.compose.animation.core.animateDp

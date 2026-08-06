@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 
 import android.annotation.SuppressLint
@@ -71,16 +71,16 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.yourcompany.android.jetreddit.appdrawer.AppDrawer
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.routing.Screen
-import com.yourcompany.android.jetreddit.screens.AddScreen
-import com.yourcompany.android.jetreddit.screens.ChatActivity
-import com.yourcompany.android.jetreddit.screens.ChooseCommunityScreen
-import com.yourcompany.android.jetreddit.screens.HomeScreen
-import com.yourcompany.android.jetreddit.screens.MyProfileScreen
-import com.yourcompany.android.jetreddit.screens.SubredditsScreen
-import com.yourcompany.android.jetreddit.theme.JetRedditTheme
+import com.263-MC1000.android.jetreddit.appdrawer.AppDrawer
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.routing.Screen
+import com.263-MC1000.android.jetreddit.screens.AddScreen
+import com.263-MC1000.android.jetreddit.screens.ChatActivity
+import com.263-MC1000.android.jetreddit.screens.ChooseCommunityScreen
+import com.263-MC1000.android.jetreddit.screens.HomeScreen
+import com.263-MC1000.android.jetreddit.screens.MyProfileScreen
+import com.263-MC1000.android.jetreddit.screens.SubredditsScreen
+import com.263-MC1000.android.jetreddit.theme.JetRedditTheme
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

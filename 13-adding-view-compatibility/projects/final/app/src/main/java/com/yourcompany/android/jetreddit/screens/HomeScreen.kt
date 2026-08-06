@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.background
@@ -55,14 +55,14 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.components.ImagePost
-import com.yourcompany.android.jetreddit.components.JoinedToast
-import com.yourcompany.android.jetreddit.components.TextPost
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.domain.model.PostType
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
-import com.yourcompany.android.jetreddit.views.TrendingTopicView
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.components.ImagePost
+import com.263-MC1000.android.jetreddit.components.JoinedToast
+import com.263-MC1000.android.jetreddit.components.TextPost
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.domain.model.PostType
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.views.TrendingTopicView
 import java.util.*
 import kotlin.concurrent.schedule
 

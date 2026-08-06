@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose
+package com.263-MC1000.android.jetpackcompose
 
 import org.junit.Test
 

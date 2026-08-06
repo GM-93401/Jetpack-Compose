@@ -31,14 +31,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.data.database
+package com.263-MC1000.android.jetnotes.data.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.yourcompany.android.jetnotes.data.database.dao.ColorDao
-import com.yourcompany.android.jetnotes.data.database.dao.NoteDao
-import com.yourcompany.android.jetnotes.data.database.model.ColorDbModel
-import com.yourcompany.android.jetnotes.data.database.model.NoteDbModel
+import com.263-MC1000.android.jetnotes.data.database.dao.ColorDao
+import com.263-MC1000.android.jetnotes.data.database.dao.NoteDao
+import com.263-MC1000.android.jetnotes.data.database.model.ColorDbModel
+import com.263-MC1000.android.jetnotes.data.database.model.NoteDbModel
 
 /**
  * App's database.

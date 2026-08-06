@@ -1,4 +1,4 @@
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 import org.junit.Test
 

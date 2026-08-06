@@ -31,14 +31,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.viewmodel
+package com.263-MC1000.android.jetnotes.viewmodel
 
 import android.os.Bundle
 import androidx.lifecycle.AbstractSavedStateViewModelFactory
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.savedstate.SavedStateRegistryOwner
-import com.yourcompany.android.jetnotes.data.repository.Repository
+import com.263-MC1000.android.jetnotes.data.repository.Repository
 
 @Suppress("UNCHECKED_CAST")
 class MainViewModelFactory(

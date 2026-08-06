@@ -33,7 +33,7 @@
  */
 @file:OptIn(ExperimentalMaterialApi::class)
 
-package com.yourcompany.android.jetreddit.components
+package com.263-MC1000.android.jetreddit.components
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.Image
@@ -60,9 +60,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.domain.model.PostModel.Companion.DEFAULT_POST
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.domain.model.PostModel.Companion.DEFAULT_POST
 
 @Composable
 fun TextPost(

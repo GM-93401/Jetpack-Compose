@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose.screens
+package com.263-MC1000.android.jetpackcompose.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -46,10 +46,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
-import com.yourcompany.android.jetpackcompose.R
+import com.263-MC1000.android.jetpackcompose.R
 import androidx.compose.ui.unit.dp
-import com.yourcompany.android.jetpackcompose.router.JetFundamentalsRouter
-import com.yourcompany.android.jetpackcompose.router.Screen
+import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
+import com.263-MC1000.android.jetpackcompose.router.Screen
 
 @Composable
 fun NavigationScreen() {

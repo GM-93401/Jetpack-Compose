@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.screens
+package com.263-MC1000.android.jetreddit.screens
 
 import androidx.compose.runtime.*
-import com.yourcompany.android.jetreddit.viewmodel.MainViewModel
+import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
 
 @Composable
 fun HomeScreen(viewModel: MainViewModel) {

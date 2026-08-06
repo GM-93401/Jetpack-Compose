@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.views
+package com.263-MC1000.android.jetreddit.views
 
 import android.content.Context
 import android.util.AttributeSet
@@ -39,7 +39,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
-import com.yourcompany.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.R
 
 class TrendingTopicView constructor(
   context: Context,

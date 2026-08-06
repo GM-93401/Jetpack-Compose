@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit
+package com.263-MC1000.android.jetreddit
 
 import android.app.Application
-import com.yourcompany.android.jetreddit.dependencyinjection.DependencyInjector
+import com.263-MC1000.android.jetreddit.dependencyinjection.DependencyInjector
 
 class JetRedditApplication : Application() {
 

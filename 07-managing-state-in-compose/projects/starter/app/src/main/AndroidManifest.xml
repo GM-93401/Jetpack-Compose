@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
-  package="com.yourcompany.android.jetnotes">
+  package="com.263-MC1000.android.jetnotes">
 
   <application
-    android:name="com.yourcompany.android.jetnotes.JetNotesApplication"
+    android:name="com.263-MC1000.android.jetnotes.JetNotesApplication"
     android:allowBackup="true"
     android:icon="@mipmap/ic_launcher"
     android:label="@string/app_name"
@@ -13,7 +13,7 @@
     android:theme="@style/SplashTheme">
 
     <activity
-      android:name="com.yourcompany.android.jetnotes.MainActivity"
+      android:name="com.263-MC1000.android.jetnotes.MainActivity"
       android:exported="true"
       android:screenOrientation="portrait"
       android:theme="@style/SplashTheme"

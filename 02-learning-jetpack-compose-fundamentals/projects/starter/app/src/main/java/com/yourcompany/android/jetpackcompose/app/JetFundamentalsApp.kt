@@ -32,15 +32,15 @@
  * THE SOFTWARE.
  */
 
-package com.yourcompany.android.jetpackcompose.app
+package com.263-MC1000.android.jetpackcompose.app
 
 import androidx.compose.animation.Crossfade
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
-import com.yourcompany.android.jetpackcompose.router.JetFundamentalsRouter
-import com.yourcompany.android.jetpackcompose.router.Screen
-import com.yourcompany.android.jetpackcompose.screens.*
+import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
+import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.263-MC1000.android.jetpackcompose.screens.*
 
 @Composable
 fun JetFundamentalsApp() {

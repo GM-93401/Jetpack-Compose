@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.models
+package com.263-MC1000.android.jetreddit.models
 
 import androidx.annotation.StringRes
-import com.yourcompany.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.R
 
 data class SubredditModel(
   @StringRes val nameStringRes: Int,

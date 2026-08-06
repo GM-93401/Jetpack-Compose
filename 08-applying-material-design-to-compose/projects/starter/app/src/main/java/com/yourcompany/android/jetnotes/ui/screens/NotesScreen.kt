@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.ui.screens
+package com.263-MC1000.android.jetnotes.ui.screens
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.lazy.LazyColumn
@@ -41,10 +41,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.tooling.preview.Preview
-import com.yourcompany.android.jetnotes.domain.model.NoteModel
-import com.yourcompany.android.jetnotes.ui.components.Note
-import com.yourcompany.android.jetnotes.ui.components.TopAppBar
-import com.yourcompany.android.jetnotes.viewmodel.MainViewModel
+import com.263-MC1000.android.jetnotes.domain.model.NoteModel
+import com.263-MC1000.android.jetnotes.ui.components.Note
+import com.263-MC1000.android.jetnotes.ui.components.TopAppBar
+import com.263-MC1000.android.jetnotes.viewmodel.MainViewModel
 
 @Composable
 fun NotesScreen(viewModel: MainViewModel) {

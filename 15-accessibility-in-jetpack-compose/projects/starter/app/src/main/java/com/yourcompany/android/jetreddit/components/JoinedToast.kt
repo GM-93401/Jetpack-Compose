@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.components
+package com.263-MC1000.android.jetreddit.components
 
 import androidx.compose.animation.*
 import androidx.compose.foundation.background
@@ -48,7 +48,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.yourcompany.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.R
 
 @Composable
 fun JoinedToast(visible: Boolean) {

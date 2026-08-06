@@ -31,13 +31,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetreddit.data.database.dbmapper
+package com.263-MC1000.android.jetreddit.data.database.dbmapper
 
-import com.yourcompany.android.jetreddit.R
-import com.yourcompany.android.jetreddit.data.database.model.PostDbModel
-import com.yourcompany.android.jetreddit.data.database.model.PostDbModel.Companion.DEFAULT_POSTS
-import com.yourcompany.android.jetreddit.domain.model.PostModel
-import com.yourcompany.android.jetreddit.domain.model.PostType
+import com.263-MC1000.android.jetreddit.R
+import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel
+import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel.Companion.DEFAULT_POSTS
+import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.263-MC1000.android.jetreddit.domain.model.PostType
 import java.util.concurrent.TimeUnit
 
 class DbMapperImpl : DbMapper {

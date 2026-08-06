@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.yourcompany.android.jetnotes.ui.screens
+package com.263-MC1000.android.jetnotes.ui.screens
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
@@ -48,9 +48,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourcompany.android.jetnotes.domain.model.ColorModel
-import com.yourcompany.android.jetnotes.ui.components.NoteColor
-import com.yourcompany.android.jetnotes.util.fromHex
+import com.263-MC1000.android.jetnotes.domain.model.ColorModel
+import com.263-MC1000.android.jetnotes.ui.components.NoteColor
+import com.263-MC1000.android.jetnotes.util.fromHex
 
 @Composable
 private fun ColorPicker(
