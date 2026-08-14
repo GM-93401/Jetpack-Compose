@@ -31,13 +31,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.data.database.dao
+package com.mc1000_263.android.jetreddit.data.database.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel
+import com.mc1000_263.android.jetreddit.data.database.model.PostDbModel
 
 /**
  * Dao for managing Post table in the database.

@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.appdrawer
+package com.mc1000_263.android.jetreddit.appdrawer
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -53,9 +53,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.Dimension
-import com.263-MC1000.android.jetreddit.R
-import com.263-MC1000.android.jetreddit.routing.Screen
-import com.263-MC1000.android.jetreddit.theme.JetRedditThemeSettings
+import com.mc1000_263.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.routing.Screen
+import com.mc1000_263.android.jetreddit.theme.JetRedditThemeSettings
 
 /**
  * Represents root composable for the app drawer used in screens

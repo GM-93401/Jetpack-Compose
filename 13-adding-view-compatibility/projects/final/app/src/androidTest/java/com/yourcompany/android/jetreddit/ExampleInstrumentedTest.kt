@@ -1,4 +1,4 @@
-package com.263-MC1000.android.jetreddit
+package com.mc1000_263.android.jetreddit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
   fun useAppContext() {
     // Context of the app under test.
     val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-    assertEquals("com.263-MC1000.android.jetreddit", appContext.packageName)
+    assertEquals("com.mc1000_263.android.jetreddit", appContext.packageName)
   }
 }

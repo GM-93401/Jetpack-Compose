@@ -31,15 +31,15 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.dependencyinjection
+package com.mc1000_263.android.jetreddit.dependencyinjection
 
 import android.content.Context
 import androidx.room.Room
-import com.263-MC1000.android.jetreddit.data.database.AppDatabase
-import com.263-MC1000.android.jetreddit.data.database.dbmapper.DbMapper
-import com.263-MC1000.android.jetreddit.data.database.dbmapper.DbMapperImpl
-import com.263-MC1000.android.jetreddit.data.repository.Repository
-import com.263-MC1000.android.jetreddit.data.repository.RepositoryImpl
+import com.mc1000_263.android.jetreddit.data.database.AppDatabase
+import com.mc1000_263.android.jetreddit.data.database.dbmapper.DbMapper
+import com.mc1000_263.android.jetreddit.data.database.dbmapper.DbMapperImpl
+import com.mc1000_263.android.jetreddit.data.repository.Repository
+import com.mc1000_263.android.jetreddit.data.repository.RepositoryImpl
 
 /**
  * Provides dependencies across the app.

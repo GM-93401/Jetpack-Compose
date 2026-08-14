@@ -1,4 +1,4 @@
-package com.263-MC1000.android.jetreddit
+package com.mc1000_263.android.jetreddit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

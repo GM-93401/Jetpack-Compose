@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes
+package com.mc1000_263.android.jetnotes
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -42,12 +42,12 @@ import androidx.compose.material.Scaffold
 import androidx.compose.material.ScaffoldState
 import androidx.compose.material.rememberScaffoldState
 import androidx.compose.runtime.rememberCoroutineScope
-import com.263-MC1000.android.jetnotes.routing.Screen
-import com.263-MC1000.android.jetnotes.theme.JetNotesTheme
-import com.263-MC1000.android.jetnotes.ui.components.AppDrawer
-import com.263-MC1000.android.jetnotes.ui.components.Note
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModel
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModelFactory
+import com.mc1000_263.android.jetnotes.routing.Screen
+import com.mc1000_263.android.jetnotes.theme.JetNotesTheme
+import com.mc1000_263.android.jetnotes.ui.components.AppDrawer
+import com.mc1000_263.android.jetnotes.ui.components.Note
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModel
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModelFactory
 import kotlinx.coroutines.launch
 
 /**

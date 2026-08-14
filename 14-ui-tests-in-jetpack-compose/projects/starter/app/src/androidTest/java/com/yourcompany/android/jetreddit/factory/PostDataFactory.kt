@@ -1,7 +1,7 @@
-package com.263-MC1000.android.jetreddit.factory
+package com.mc1000_263.android.jetreddit.factory
 
-import com.263-MC1000.android.jetreddit.domain.model.PostModel
-import com.263-MC1000.android.jetreddit.domain.model.PostType
+import com.mc1000_263.android.jetreddit.domain.model.PostModel
+import com.mc1000_263.android.jetreddit.domain.model.PostType
 import java.util.UUID
 import java.util.UUID.randomUUID
 import java.util.concurrent.ThreadLocalRandom

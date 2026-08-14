@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.screens
+package com.mc1000_263.android.jetpackcompose.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -48,10 +48,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
 
-import com.263-MC1000.android.jetpackcompose.R
-import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
-import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
-import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.mc1000_263.android.jetpackcompose.R
+import com.mc1000_263.android.jetpackcompose.router.BackButtonHandler
+import com.mc1000_263.android.jetpackcompose.router.JetFundamentalsRouter
+import com.mc1000_263.android.jetpackcompose.router.Screen
 
 @Composable
 fun TextScreen() {

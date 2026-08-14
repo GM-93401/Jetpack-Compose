@@ -31,15 +31,15 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.data.repository
+package com.mc1000_263.android.jetnotes.data.repository
 
-import com.263-MC1000.android.jetnotes.data.database.dao.ColorDao
-import com.263-MC1000.android.jetnotes.data.database.dao.NoteDao
-import com.263-MC1000.android.jetnotes.data.database.dbmapper.DbMapper
-import com.263-MC1000.android.jetnotes.data.database.model.ColorDbModel
-import com.263-MC1000.android.jetnotes.data.database.model.NoteDbModel
-import com.263-MC1000.android.jetnotes.domain.model.ColorModel
-import com.263-MC1000.android.jetnotes.domain.model.NoteModel
+import com.mc1000_263.android.jetnotes.data.database.dao.ColorDao
+import com.mc1000_263.android.jetnotes.data.database.dao.NoteDao
+import com.mc1000_263.android.jetnotes.data.database.dbmapper.DbMapper
+import com.mc1000_263.android.jetnotes.data.database.model.ColorDbModel
+import com.mc1000_263.android.jetnotes.data.database.model.NoteDbModel
+import com.mc1000_263.android.jetnotes.domain.model.ColorModel
+import com.mc1000_263.android.jetnotes.domain.model.NoteModel
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow

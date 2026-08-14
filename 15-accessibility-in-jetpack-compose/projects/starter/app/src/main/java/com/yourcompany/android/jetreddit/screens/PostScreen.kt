@@ -1,4 +1,4 @@
-package com.263-MC1000.android.jetreddit.screens
+package com.mc1000_263.android.jetreddit.screens
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -25,8 +25,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.263-MC1000.android.jetreddit.R
-import com.263-MC1000.android.jetreddit.theme.JetRedditTheme
+import com.mc1000_263.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.theme.JetRedditTheme
 
 class PostActivity : AppCompatActivity() {
 

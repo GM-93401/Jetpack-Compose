@@ -31,15 +31,15 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes
+package com.mc1000_263.android.jetnotes
 
 import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.compose.setContent
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModel
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModelFactory
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModel
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModelFactory
 
 /**
  * Main activity for the app.

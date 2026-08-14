@@ -31,20 +31,20 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.viewmodel
+package com.mc1000_263.android.jetnotes.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.263-MC1000.android.jetnotes.data.repository.Repository
-import com.263-MC1000.android.jetnotes.domain.model.NoteModel
+import com.mc1000_263.android.jetnotes.data.repository.Repository
+import com.mc1000_263.android.jetnotes.domain.model.NoteModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
-import com.263-MC1000.android.jetnotes.domain.model.ColorModel
+import com.mc1000_263.android.jetnotes.domain.model.ColorModel
 
 /**
  * View model used for storing the global app state.

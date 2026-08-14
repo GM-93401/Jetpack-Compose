@@ -31,9 +31,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.domain.model
+package com.mc1000_263.android.jetreddit.domain.model
 
-import com.263-MC1000.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.R
 
 data class PostModel(
   val username: String,

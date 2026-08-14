@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.ui.components
+package com.mc1000_263.android.jetnotes.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -49,7 +49,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.263-MC1000.android.jetnotes.theme.green
+import com.mc1000_263.android.jetnotes.theme.green
 
 @Composable
 fun Note() {

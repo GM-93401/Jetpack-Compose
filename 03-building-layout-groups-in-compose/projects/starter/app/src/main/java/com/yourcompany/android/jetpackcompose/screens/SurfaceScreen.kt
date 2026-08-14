@@ -32,16 +32,16 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.screens
+package com.mc1000_263.android.jetpackcompose.screens
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
-import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
-import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.mc1000_263.android.jetpackcompose.router.BackButtonHandler
+import com.mc1000_263.android.jetpackcompose.router.JetFundamentalsRouter
+import com.mc1000_263.android.jetpackcompose.router.Screen
 
 @Composable
 fun SurfaceScreen(modifier: Modifier = Modifier) {

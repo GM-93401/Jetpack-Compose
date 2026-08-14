@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.screens
+package com.mc1000_263.android.jetpackcompose.screens
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Image
@@ -48,12 +48,12 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import com.263-MC1000.android.jetpackcompose.R
+import com.mc1000_263.android.jetpackcompose.R
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
-import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
-import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.mc1000_263.android.jetpackcompose.router.BackButtonHandler
+import com.mc1000_263.android.jetpackcompose.router.JetFundamentalsRouter
+import com.mc1000_263.android.jetpackcompose.router.Screen
 
 private val items = listOf(
   BookCategory(

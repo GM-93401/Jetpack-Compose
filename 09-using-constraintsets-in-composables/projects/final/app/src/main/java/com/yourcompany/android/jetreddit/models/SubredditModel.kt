@@ -31,6 +31,6 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.models
+package com.mc1000_263.android.jetreddit.models
 
 data class SubredditModel(val name: String, val members: String, val description: String)

@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes
+package com.mc1000_263.android.jetnotes
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -51,14 +51,14 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.263-MC1000.android.jetnotes.routing.Screen
-import com.263-MC1000.android.jetnotes.theme.JetNotesTheme
-import com.263-MC1000.android.jetnotes.ui.components.AppDrawer
-import com.263-MC1000.android.jetnotes.ui.screens.NotesScreen
-import com.263-MC1000.android.jetnotes.ui.screens.SaveNoteScreen
-import com.263-MC1000.android.jetnotes.ui.screens.TrashScreen
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModel
-import com.263-MC1000.android.jetnotes.viewmodel.MainViewModelFactory
+import com.mc1000_263.android.jetnotes.routing.Screen
+import com.mc1000_263.android.jetnotes.theme.JetNotesTheme
+import com.mc1000_263.android.jetnotes.ui.components.AppDrawer
+import com.mc1000_263.android.jetnotes.ui.screens.NotesScreen
+import com.mc1000_263.android.jetnotes.ui.screens.SaveNoteScreen
+import com.mc1000_263.android.jetnotes.ui.screens.TrashScreen
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModel
+import com.mc1000_263.android.jetnotes.viewmodel.MainViewModelFactory
 import kotlinx.coroutines.launch
 
 /**

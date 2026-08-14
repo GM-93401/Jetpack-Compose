@@ -31,12 +31,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.data.repository
+package com.mc1000_263.android.jetreddit.data.repository
 
-import com.263-MC1000.android.jetreddit.data.database.dao.PostDao
-import com.263-MC1000.android.jetreddit.data.database.dbmapper.DbMapper
-import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel
-import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.mc1000_263.android.jetreddit.data.database.dao.PostDao
+import com.mc1000_263.android.jetreddit.data.database.dbmapper.DbMapper
+import com.mc1000_263.android.jetreddit.data.database.model.PostDbModel
+import com.mc1000_263.android.jetreddit.domain.model.PostModel
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow

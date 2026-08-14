@@ -31,12 +31,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.data.database
+package com.mc1000_263.android.jetreddit.data.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.263-MC1000.android.jetreddit.data.database.dao.PostDao
-import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel
+import com.mc1000_263.android.jetreddit.data.database.dao.PostDao
+import com.mc1000_263.android.jetreddit.data.database.model.PostDbModel
 
 /**
  * App's database.

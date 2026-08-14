@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.screens
+package com.mc1000_263.android.jetpackcompose.screens
 
 import androidx.compose.material.AlertDialog
 import androidx.compose.material.Button
@@ -44,10 +44,10 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
-import com.263-MC1000.android.jetpackcompose.R
-import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
-import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
-import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.mc1000_263.android.jetpackcompose.R
+import com.mc1000_263.android.jetpackcompose.router.BackButtonHandler
+import com.mc1000_263.android.jetpackcompose.router.JetFundamentalsRouter
+import com.mc1000_263.android.jetpackcompose.router.Screen
 
 @Composable
 fun AlertDialogScreen() {

@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.router
+package com.mc1000_263.android.jetpackcompose.router
 
 import androidx.activity.ComponentActivity
 import androidx.activity.OnBackPressedCallback

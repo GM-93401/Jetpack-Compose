@@ -31,11 +31,11 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.routing
+package com.mc1000_263.android.jetreddit.routing
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
-import com.263-MC1000.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.R
 
 /**
  * Class defining the screens we have in the app.

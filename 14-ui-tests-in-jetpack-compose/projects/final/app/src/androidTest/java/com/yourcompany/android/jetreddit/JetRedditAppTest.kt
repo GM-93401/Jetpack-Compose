@@ -1,4 +1,4 @@
-package com.263-MC1000.android.jetreddit
+package com.mc1000_263.android.jetreddit
 
 import androidx.activity.compose.setContent
 import androidx.compose.ui.test.assertIsDisplayed
@@ -13,9 +13,9 @@ import androidx.test.espresso.assertion.ViewAssertions
 import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.*
-import com.263-MC1000.android.jetreddit.factory.PostDataFactory
-import com.263-MC1000.android.jetreddit.routing.Screen
-import com.263-MC1000.android.jetreddit.util.Tags
+import com.mc1000_263.android.jetreddit.factory.PostDataFactory
+import com.mc1000_263.android.jetreddit.routing.Screen
+import com.mc1000_263.android.jetreddit.util.Tags
 import org.junit.Rule
 import org.junit.Test
 

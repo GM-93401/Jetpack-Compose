@@ -32,12 +32,12 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose
+package com.mc1000_263.android.jetpackcompose
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import com.263-MC1000.android.jetpackcompose.app.JetFundamentalsApp
+import com.mc1000_263.android.jetpackcompose.app.JetFundamentalsApp
 
 class MainActivity : AppCompatActivity() {
 

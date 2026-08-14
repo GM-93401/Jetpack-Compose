@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.ui.components
+package com.mc1000_263.android.jetnotes.ui.components
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background

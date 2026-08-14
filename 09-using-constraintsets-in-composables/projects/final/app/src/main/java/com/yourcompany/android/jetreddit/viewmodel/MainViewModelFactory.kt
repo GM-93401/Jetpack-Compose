@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.viewmodel
+package com.mc1000_263.android.jetreddit.viewmodel
 
 import android.os.Bundle
 import androidx.lifecycle.AbstractSavedStateViewModelFactory

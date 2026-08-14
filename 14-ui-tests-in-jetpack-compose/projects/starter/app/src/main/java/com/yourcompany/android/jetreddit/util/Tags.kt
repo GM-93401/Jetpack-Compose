@@ -1,4 +1,4 @@
-package com.263-MC1000.android.jetreddit.util
+package com.mc1000_263.android.jetreddit.util
 
 object Tags {
     const val POST_IMAGE = "POST_IMAGE"

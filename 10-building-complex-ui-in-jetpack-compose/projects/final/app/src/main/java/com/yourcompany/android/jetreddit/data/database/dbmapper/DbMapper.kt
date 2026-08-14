@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.data.database.dbmapper
+package com.mc1000_263.android.jetreddit.data.database.dbmapper
 
-import com.263-MC1000.android.jetreddit.data.database.model.PostDbModel
-import com.263-MC1000.android.jetreddit.domain.model.PostModel
+import com.mc1000_263.android.jetreddit.data.database.model.PostDbModel
+import com.mc1000_263.android.jetreddit.domain.model.PostModel
 
 interface DbMapper {
 

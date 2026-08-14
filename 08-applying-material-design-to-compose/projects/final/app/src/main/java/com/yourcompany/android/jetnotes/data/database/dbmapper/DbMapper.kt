@@ -31,12 +31,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.data.database.dbmapper
+package com.mc1000_263.android.jetnotes.data.database.dbmapper
 
-import com.263-MC1000.android.jetnotes.data.database.model.ColorDbModel
-import com.263-MC1000.android.jetnotes.data.database.model.NoteDbModel
-import com.263-MC1000.android.jetnotes.domain.model.ColorModel
-import com.263-MC1000.android.jetnotes.domain.model.NoteModel
+import com.mc1000_263.android.jetnotes.data.database.model.ColorDbModel
+import com.mc1000_263.android.jetnotes.data.database.model.NoteDbModel
+import com.mc1000_263.android.jetnotes.domain.model.ColorModel
+import com.mc1000_263.android.jetnotes.domain.model.NoteModel
 
 interface DbMapper {
 

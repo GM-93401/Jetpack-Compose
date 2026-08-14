@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.appwidget
+package com.mc1000_263.android.jetreddit.appwidget
 
 import android.appwidget.AppWidgetManager
 import android.content.Context
@@ -59,9 +59,9 @@ import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextStyle
 import androidx.glance.unit.FixedColorProvider
-import com.263-MC1000.android.jetreddit.R
-import com.263-MC1000.android.jetreddit.dependencyinjection.dataStore
-import com.263-MC1000.android.jetreddit.screens.communities
+import com.mc1000_263.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.dependencyinjection.dataStore
+import com.mc1000_263.android.jetreddit.screens.communities
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.map
 

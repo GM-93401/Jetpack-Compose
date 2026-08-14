@@ -32,15 +32,15 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetpackcompose.screens
+package com.mc1000_263.android.jetpackcompose.screens
 
 import androidx.annotation.StringRes
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import com.263-MC1000.android.jetpackcompose.R
-import com.263-MC1000.android.jetpackcompose.router.BackButtonHandler
-import com.263-MC1000.android.jetpackcompose.router.JetFundamentalsRouter
-import com.263-MC1000.android.jetpackcompose.router.Screen
+import com.mc1000_263.android.jetpackcompose.R
+import com.mc1000_263.android.jetpackcompose.router.BackButtonHandler
+import com.mc1000_263.android.jetpackcompose.router.JetFundamentalsRouter
+import com.mc1000_263.android.jetpackcompose.router.Screen
 
 private val items = listOf(
     BookCategory(

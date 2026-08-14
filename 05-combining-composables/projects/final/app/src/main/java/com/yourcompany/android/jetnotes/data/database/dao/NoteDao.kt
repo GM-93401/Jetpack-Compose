@@ -31,13 +31,13 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.data.database.dao
+package com.mc1000_263.android.jetnotes.data.database.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.263-MC1000.android.jetnotes.data.database.model.NoteDbModel
+import com.mc1000_263.android.jetnotes.data.database.model.NoteDbModel
 import kotlinx.coroutines.flow.Flow
 
 /**

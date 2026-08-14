@@ -31,12 +31,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.data.database.model
+package com.mc1000_263.android.jetreddit.data.database.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.263-MC1000.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.R
 
 @Entity
 data class PostDbModel(

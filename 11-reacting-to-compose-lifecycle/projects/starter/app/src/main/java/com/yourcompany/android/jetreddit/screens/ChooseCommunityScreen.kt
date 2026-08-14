@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.screens
+package com.mc1000_263.android.jetreddit.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -44,8 +44,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.263-MC1000.android.jetreddit.R
-import com.263-MC1000.android.jetreddit.viewmodel.MainViewModel
+import com.mc1000_263.android.jetreddit.R
+import com.mc1000_263.android.jetreddit.viewmodel.MainViewModel
 
 private const val SEARCH_DELAY_MILLIS = 300L
 

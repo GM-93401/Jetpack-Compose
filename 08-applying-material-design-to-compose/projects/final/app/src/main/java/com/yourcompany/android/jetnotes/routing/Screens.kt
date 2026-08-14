@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.routing
+package com.mc1000_263.android.jetnotes.routing
 
 /**
  * Class defining all possible screens in the app.

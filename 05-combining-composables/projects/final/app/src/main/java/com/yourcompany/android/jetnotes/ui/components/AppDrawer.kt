@@ -31,7 +31,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetnotes.ui.components
+package com.mc1000_263.android.jetnotes.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -48,9 +48,9 @@ import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.263-MC1000.android.jetnotes.routing.Screen
-import com.263-MC1000.android.jetnotes.theme.JetNotesTheme
-import com.263-MC1000.android.jetnotes.theme.JetNotesThemeSettings
+import com.mc1000_263.android.jetnotes.routing.Screen
+import com.mc1000_263.android.jetnotes.theme.JetNotesTheme
+import com.mc1000_263.android.jetnotes.theme.JetNotesThemeSettings
 
 @Composable
 fun AppDrawer(

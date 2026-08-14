@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-package com.263-MC1000.android.jetnotes.theme
+package com.mc1000_263.android.jetnotes.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -31,10 +31,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.viewmodel
+package com.mc1000_263.android.jetreddit.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.263-MC1000.android.jetreddit.data.repository.Repository
+import com.mc1000_263.android.jetreddit.data.repository.Repository
 
 class MainViewModel(private val repository: Repository) : ViewModel() {
 

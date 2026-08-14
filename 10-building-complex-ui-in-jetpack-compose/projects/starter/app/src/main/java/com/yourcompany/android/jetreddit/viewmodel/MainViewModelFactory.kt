@@ -31,14 +31,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.263-MC1000.android.jetreddit.viewmodel
+package com.mc1000_263.android.jetreddit.viewmodel
 
 import android.os.Bundle
 import androidx.lifecycle.AbstractSavedStateViewModelFactory
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.savedstate.SavedStateRegistryOwner
-import com.263-MC1000.android.jetreddit.data.repository.Repository
+import com.mc1000_263.android.jetreddit.data.repository.Repository
 
 @Suppress("UNCHECKED_CAST")
 class MainViewModelFactory(
